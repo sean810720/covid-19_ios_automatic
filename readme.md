@@ -4,7 +4,7 @@
 ## 1. 到「設定」 > 「捷徑」將「允許不受信任的捷徑」點選開啟<br/>
 <p align="left"><img width="400" src="./2.png"></p><br/>
 
-## 2. 掃描以下 QRcode 加入捷徑「疫情日報」 <br/>
+## 2. 手機掃描以下 QRcode 加入捷徑「疫情日報」 <br/>
 <p align="left"><img width="400" src="./3.png"></p><br/>
 
 ## 3. 設定自動化 <br/>
