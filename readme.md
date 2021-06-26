@@ -1,7 +1,7 @@
-<p align="center"><h1>iOS 疫情日報</h1></p>
+<p align="center"><h1>iOS 自動化疫情日報</h1></p>
 <p align="left"><img width="400" src="./1.png"></p>
 
-## 1. 到「設定」 > 「捷徑」將「允許不受信任捷徑」點選開啟<br/>
+## 1. 到「設定」 > 「捷徑」將「允許不受信任的捷徑」點選開啟<br/>
 <p align="left"><img width="400" src="./2.png"></p>
 
 ## 2. 掃描以下 QRcode 加入捷徑「疫情日報」 <br/>
