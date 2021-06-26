@@ -6,8 +6,9 @@
 註2: 加完本捷徑後可自行關閉<br/>
 <p align="left"><img width="400" src="./2.png"></p><br/>
 
-## 2. 手機掃描以下 QRcode 加入捷徑「疫情日報」: <br/>
-<p align="left"><img width="400" src="./3.png"></p><br/><br/>
+## 2. 用 iOS 裝置掃描以下 QRcode 加入捷徑「疫情日報」: <br/>
+<p align="left"><img width="400" src="./3.png"></p><br/>
+<br/>或用 iOS 裝置點擊此連結: <a href="https://www.icloud.com/shortcuts/72eec82abf0942ae8d2472fefb067812" target="_blank">請點我</a><br/><br/>
 
 ## 3. 設定自動化 <br/>
 註: 目前每天下午2點半才能抓到當日的正確數字，建議設置自動化<br/><br/>
