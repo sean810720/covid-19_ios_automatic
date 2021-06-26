@@ -2,7 +2,7 @@
 <p align="left"><img width="400" src="./1.png"></p><br/><br/>
 
 ## 1. 到「設定」 > 「捷徑」將「允許不受信任的捷徑」點選開啟<br/>
-<p align="left"><img width="400" src="./2.png"></p><br/>
+<p align="left"><img width="400" src="./2.png"></p>
 註1: 加完本捷徑可自行關閉<br/>
 註2: iOS 本身有限制必須要先執行過另一個捷徑才能開啟本設定<br/>
 <br/>
