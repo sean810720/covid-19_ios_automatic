@@ -7,7 +7,7 @@
 <p align="left"><img width="400" src="./2.png"></p><br/>
 
 ## 2. 用 iOS 裝置掃描以下 QRcode 加入捷徑「疫情日報」: <br/>
-<p align="left"><img width="400" src="./3.png"></p><br/>
+<p align="left"><img width="400" src="./3.png"></p>
 <br/>或用 iOS 裝置點擊此連結: <a href="https://www.icloud.com/shortcuts/72eec82abf0942ae8d2472fefb067812" target="_blank">請點我</a><br/><br/>
 
 ## 3. 設定自動化 <br/>
