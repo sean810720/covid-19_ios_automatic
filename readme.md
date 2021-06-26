@@ -1,5 +1,5 @@
 <p align="center"><h1>iOS 疫情日報</h1></p>
-<p align="left"><img width="550" src="./1.png"></p><br/><br/>
+<p align="left"><img width="600" src="./1.png"></p><br/><br/>
 
 ## 1. 到「設定」->「捷徑」將「允許不受信任的捷徑」點選開啟
 iOS 本身有限制必須先執行過另一個捷徑才能開啟本設定，加完本捷徑後可自行關閉。<br/>
