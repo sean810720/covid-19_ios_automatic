@@ -21,5 +21,5 @@
 ### (2)「打開捷徑」設定為剛加入的「疫情日報」<br/>
 <p align="left"><img width="400" src="./6.png"></p><br/>
 
-### (3) 其他自動化設定明細如下:<br/>
+### (3) 其他自動化設定明細如下：<br/>
 <p align="left"><img width="400" src="./5.png"></p><br/>
