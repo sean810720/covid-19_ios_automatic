@@ -6,7 +6,7 @@ iOS 本身有限制必須先執行過另一個捷徑才能開啟本設定，加�
 <p align="left"><img width="400" src="./2.png"></p><br/>
 
 ## 2. 加入捷徑「疫情日報」
-用 iOS 裝置打開此連結：<a href="https://www.icloud.com/shortcuts/ad41816e51bc4676b6cdfac11e61da67" target="_blank">請點我</a><br/>
+用 iOS 裝置打開此連結：<a href="https://www.icloud.com/shortcuts/a0c27f917d17496986a2b62a6a995689" target="_blank">請點我</a><br/>
 或用 iOS 裝置掃描以下 QRcode：<br/>
 <p align="left"><img width="400" src="./3.png"></p>
 <br/><br/>
